@@ -1,4 +1,4 @@
 {
-  "version": "0.1",
-  "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.1/ble_gap_gatt_mapper.bin"
+  "version": "0.2",
+  "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.2/ble_gap_gatt_mapper.bin"
 }
