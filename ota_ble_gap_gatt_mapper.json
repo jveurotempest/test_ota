@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
-  "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.2/ble_gap_gatt_mapper_esp32c6.bin"
+  "version": "0.3",
+  "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.3/ble_gap_gatt_mapper_esp32c6.bin"
               
 }
