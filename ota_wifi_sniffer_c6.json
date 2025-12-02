@@ -1,4 +1,4 @@
 {
-  "version": "0.2",
+  "version": "0.3",
   "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.3/wifi_sniffer_esp32c6.bin"
 }
