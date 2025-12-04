@@ -1,4 +1,4 @@
 {
-  "version": "0.4",
-  "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.4/spi_mqtt_bridge_esp32c6.bin"
+  "version": "0.5",
+  "firmware": "https://github.com/jveurotempest/test_ota/releases/download/V0.5/spi_mqtt_bridge_esp32c6.bin"
 }
